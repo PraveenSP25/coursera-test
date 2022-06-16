@@ -1,2 +1,2 @@
-# python 
-python begginer
+# python # 
+for begginer
